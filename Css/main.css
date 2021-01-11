@@ -24,9 +24,19 @@
 
 .col-md-6 > .profile-image {
     border-radius: 50%;
-    width: 500px;
+    width: 400px;
     border:2px solid lightgray;
     padding:5px
+}
+
+.profile-image:hover { 
+    cursor: pointer;
+    box-shadow: 0 10px 10px gray;
+}
+
+.section-A { 
+    margin-bottom: 7rem;
+    margin-top: 5rem;
 }
 
 .certificate {
@@ -34,14 +44,17 @@
     padding-bottom: 40px;
 }
 
+.certificate:hover {
+    box-shadow: 0 20px 20px 10px gray;
+    padding-bottom: 0;
+}
+
 .certs {
     background-color:#F7F8FC;
     margin-bottom: 10rem;
 }
 
-.certs:hover {
-    
-}
+
 .col-md-6 >
 
 .col-md-6 {
