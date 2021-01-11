@@ -20,6 +20,25 @@
 
 /*Main Contents*/
 
+/*Images*/
+
+.col-md-6 > .profile-image {
+    border-radius: 50%;
+    width: 500px;
+    border:2px solid lightgray;
+    padding:5px
+}
+
+.col-md-6 {
+    margin-top:40px;
+}
+
+.col-md-6 > h1 {
+    margin-top: 6rem;
+}
+
+
+
 .container { 
     height: 50rem;
 }
