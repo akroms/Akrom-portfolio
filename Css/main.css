@@ -45,7 +45,7 @@
 }
 
 .certificate:hover {
-    box-shadow: 0 20px 20px 10px gray;
+    box-shadow: 0 10px 10px 10px gray;
     padding-bottom: 0;
 }
 
