@@ -126,11 +126,11 @@ body {
 .col-md-2 {
     width: 90px;
     margin: 5px;
-}
-
-.col-md-2:hover {
-    width: 110px;
-    transition: .7s;
+   }
+@media screen and (min-width:700px) {
+    .tfoot {
+        margin-top: 150rem;
+    }
 }
 
 .col-md-8 > p, .col-md-6 > p, .link {
@@ -156,8 +156,5 @@ footer p {
     color:rgb(184, 177, 177);
 }
  
-.tfoot {
-    margin-top: 145rem;
-    margin-bottom: 0;
-}
+
 
