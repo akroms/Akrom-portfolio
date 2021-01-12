@@ -20,6 +20,13 @@
 
 /*Main Contents*/
 
+.cert-w > h1 { 
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
 /*Images*/
 
 .col-md-6 > .profile-image {
