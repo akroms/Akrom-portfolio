@@ -112,10 +112,11 @@ body {
     .rzow > h1 {
         text-align: center;
     }
-    .rzow  > p {
-        t
-    }
  }
+
+.rzow  > .fd-h {
+    font-size: 42px;
+}
 
 .col-md-2 {
     width: 90px;
