@@ -20,6 +20,10 @@
 
 /*Main Contents*/
 
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .cert-w > h1 { 
     font-size: 40px;
     font-weight: 700;
@@ -53,6 +57,7 @@
 .certificate {
     margin: 40px 0 0 0;
     padding-bottom: 50px;
+    margin-top: 1rem;
 }
 
 .certificate:hover {
@@ -76,6 +81,9 @@
     margin-top: 6rem;
 }
 
+.col-md-8 > p {
+    font-size: 20px;
+}
 
 /*This is a footer section*/
 footer p {
