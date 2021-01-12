@@ -150,3 +150,7 @@ footer p {
     margin-bottom: 0;
     color:rgb(184, 177, 177);
 }
+
+.tfoot {  /*This is a footer of technologies*/
+    margin-top:140rem;
+}
