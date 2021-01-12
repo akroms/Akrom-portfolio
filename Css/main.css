@@ -111,7 +111,7 @@ body {
 
 .col-md-2:hover {
     width: 110px;
-    transition: .3s;
+    transition: .7s;
 }
 
 .col-md-8 > p, .col-md-6 > p, .link {
