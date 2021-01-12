@@ -31,6 +31,11 @@ body {
     margin-bottom: 40px;
 }
 
+.cert-w > .col-md-8 { 
+    text-align: center;
+    margin-left: 14rem;
+}
+
 .cert-w > p {
     font-size: 20px;
     margin-bottom: -2rem;
@@ -82,7 +87,7 @@ body {
     padding: 20px;
 }
 .col-md-2:hover {
-    width: 110px;
+    width: 100px;
 }
 
 .col-md-8 > p, .col-md-6 > p, .link {
