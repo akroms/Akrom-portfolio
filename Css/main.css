@@ -105,7 +105,17 @@ body {
      font-weight: bold;
  }
 
-
+ @media screen and (max-width:700px){
+    .rzow {
+        padding: 20px;
+    }
+    .rzow > h1 {
+        text-align: center;
+    }
+    .rzow  > p {
+        t
+    }
+ }
 
 .col-md-2 {
     width: 90px;
