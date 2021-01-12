@@ -93,13 +93,16 @@ body {
     margin-top: 4rem;
 }
 
-@media screen and (min-width:700px) {  /*Icons of techs query*/
-    .col-md-8 > .col-md-2 { 
-      margin-left: 110px;
-      padding: 1px;
-      width: 40px;
+@media screen and (min-width:700px) {  /*Cert page query*/
+    .col-md-6 > .row { 
+     margin-left: 19rem;
+     width: 100%;
+
     } 
- } 
+}
+
+
+
 
 .col-md-2 {
     width: 90px;
