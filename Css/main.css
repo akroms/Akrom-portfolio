@@ -30,12 +30,19 @@ body {
     text-align: center;
     margin-bottom: 40px;
 }
-
-.cert-w > .col-md-8 { 
+@media screen and (min-width:700px) {  /*Cert page query*/
+   .cert-w > .col-md-8  { 
     text-align: center;
     margin-left: 14rem;
+   } 
 }
 
+@media screen and (min-width:700px) {  /*Cert page query*/
+    .col-md-8 > p { 
+     margin-left: 8rem;
+     width: 100%;
+    } 
+ } 
 .cert-w > p {
     font-size: 20px;
     margin-bottom: -2rem;
@@ -94,11 +101,6 @@ body {
     font-size: 20px;
     color: rgb(88, 84, 84);
     padding-bottom: 40px;
-}
-
-.col-md-8 > p {
-    margin-left: 10rem;
-    width: 100%;
 }
 
 .link:hover {
