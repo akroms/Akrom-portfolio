@@ -78,6 +78,10 @@ body {
     margin-top: 3rem;
 }
 
+.col-md-1:hover {
+    width: 50pt;
+}
+
 .col-md-8 > p, .col-md-6 > p, .link {
     font-size: 20px;
     color: rgb(88, 84, 84);
