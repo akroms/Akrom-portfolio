@@ -96,6 +96,11 @@ body {
     padding-bottom: 40px;
 }
 
+.col-md-8 > p {
+    margin-left: 10rem;
+    width: 100%;
+}
+
 .link:hover {
     color:limegreen;
     text-decoration: none;
