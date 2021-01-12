@@ -28,11 +28,12 @@ body {
     font-size: 40px;
     font-weight: 700;
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 .cert-w > p {
     font-size: 20px;
+    margin-bottom: -2rem;
 }
 
 /*Images*/
@@ -67,7 +68,6 @@ body {
 
 .certs {
     background-color:#F7F8FC;
-    margin-bottom: 10rem;
 }
 
 .col-md-6 {
@@ -81,6 +81,7 @@ body {
 .col-md-8 > p, .col-md-6 > p, .link {
     font-size: 20px;
     color: rgb(88, 84, 84);
+    padding-bottom: 40px;
 }
 
 .link:hover {
