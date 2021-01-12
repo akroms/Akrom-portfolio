@@ -39,7 +39,7 @@ body {
 
 @media screen and (min-width:700px) {  /*Cert page query*/
     .col-md-8 > p { 
-     margin-left: 13rem;
+     margin-left: 9rem;
      width: 100%;
      padding-top: 30px;
     } 
@@ -94,13 +94,16 @@ body {
 }
 
 @media screen and (min-width:700px) {  /*Cert page query*/
-    .col-md-6 > .row { 
+    .col-md-6 > .rzow { 
      margin-left: 19rem;
      width: 100%;
 
     } 
 }
-
+ .rzow > h1 {
+     font-size: 42px;
+     font-weight: bold;
+ }
 
 
 
