@@ -33,10 +33,7 @@ body {
 /*Media queries for responsive web design*/
 
 @media screen and (min-width:700px) {  /*Cert page query*/
-   .cert-w > .col-md-8  { 
-    text-align: center;
-    margin-left: 14rem;
-   } 
+ 
 }
 
 @media screen and (min-width:700px) {  /*Cert page query*/
@@ -45,16 +42,17 @@ body {
      width: 100%;
      padding-top: 30px;
     } 
-}
-
-@media screen and (min-width:700px) {  /*Cert page query*/
     .col-md-6 > .rzow { 
-     margin-left: 19rem;
-     width: 100%;
+        margin-left: 19rem;
+        width: 100%;
     } 
     .tfoot {
-        margin-top: 150rem;
+           margin-top: 150rem;
     }
+    .cert-w > .col-md-8  { 
+        text-align: center;
+        margin-left: 14rem;
+    } 
 }
 
 @media screen and (max-width:700px){
@@ -64,11 +62,6 @@ body {
     .rzow > h1 {
         text-align: center;
     }
- }
-
-
-
-@media screen and (max-width:700px) {
     .fa {
         padding: 20px;
         font-size: 30px;
@@ -77,8 +70,7 @@ body {
         text-decoration: none;
         margin-top: 30px;
       }
-  }
-
+ }
  
 .cert-w > p {
     font-size: 20px;
