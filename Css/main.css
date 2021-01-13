@@ -129,7 +129,6 @@ body {
       align-items: center;
      
 }
-
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
@@ -140,7 +139,6 @@ input[type=text], select, textarea {
   margin-bottom: 16px;
   resize: vertical;
 }
-
 input[type=submit] {
   background-color: #4CAF50;
   color: white;
