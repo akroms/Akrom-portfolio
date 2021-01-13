@@ -51,8 +51,10 @@ body {
     .col-md-6 > .rzow { 
      margin-left: 19rem;
      width: 100%;
-
     } 
+    .tfoot {
+        margin-top: 150rem;
+    }
 }
 
 @media screen and (max-width:700px){
@@ -64,11 +66,7 @@ body {
     }
  }
 
- @media screen and (min-width:700px) {
-    .tfoot {
-        margin-top: 150rem;
-    }
-}
+
 
 @media screen and (max-width:700px) {
     .fa {
