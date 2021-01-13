@@ -8,6 +8,7 @@
 *
 *
 */
+
 *    {box-sizing: border-box;}
 body {
     font-family: 'Times New Roman', Times, serif;
@@ -28,63 +29,50 @@ body {
     text-align: center;
     margin-bottom: 40px;
 }
-
 .col-md-6 > .profile-image {
     border-radius: 50%;
     width: 400px;
     border:2px solid lightgray;
     padding:5px;
 }
-
 .profile-image:hover { 
     cursor: pointer;
     box-shadow: 0 10px 10px gray;
 }
-
 .section-A { 
     margin-bottom: 7rem;
     margin-top: 2rem;
 }
-
 .certificate {
     margin: 40px 0 0 0;
     padding-bottom: 50px;
     margin-top: 1rem;
 }
-
 .cert-w > p {
     font-size: 20px;
     margin-bottom: -2rem;
 }
-
 .certificate:hover {
     box-shadow: 0 10px 10px 10px gray;
     padding-bottom: 0;
 }
-
 .certs {
     background-color:#F7F8FC;
 }
-
 .col-md-6 {
     margin-top:40px;
 }
-
 .col-md-6 > h1 {
     margin-top: 4rem;
 }
-
 .rzow > h1 {
      font-size: 42px;
      font-weight: bold;
- }
-
-
+}
 .rzow  > .fd-h {
     font-size: 42px;
     padding-top: 30px;
 }
-
 .rzow  > .fd-p {
     margin-top: 20px;
     margin-bottom: 30px;
@@ -92,21 +80,19 @@ body {
 .col-md-2 {
     width: 90px;
     margin: 5px;
-   }
-
-
+}
 .col-md-8 > p, .col-md-6 > p, .link {
     font-size: 20px;
     color: rgb(88, 84, 84);
     padding-bottom: 40px;
 }
-
 .link:hover {
     color:limegreen;
     text-decoration: none;
 }
 
 /*Contact section*/
+
 .fa {
     padding: 30px;
     font-size: 50px;
