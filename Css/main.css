@@ -33,10 +33,6 @@ body {
 /*Media queries for responsive web design*/
 
 @media screen and (min-width:700px) {  /*Cert page query*/
- 
-}
-
-@media screen and (min-width:700px) {  /*Cert page query*/
     .col-md-8 > p { 
      margin-left: 9rem;
      width: 100%;
