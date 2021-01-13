@@ -31,6 +31,7 @@ body {
 }
 
 /*Media queries for responsive web design*/
+
 @media screen and (min-width:700px) {  /*Cert page query*/
    .cert-w > .col-md-8  { 
     text-align: center;
@@ -45,6 +46,16 @@ body {
      padding-top: 30px;
     } 
 }
+
+@media screen and (min-width:700px) {  /*Cert page query*/
+    .col-md-6 > .rzow { 
+     margin-left: 19rem;
+     width: 100%;
+
+    } 
+}
+
+
 
  
 .cert-w > p {
@@ -94,26 +105,12 @@ body {
     margin-top: 4rem;
 }
 
-@media screen and (min-width:700px) {  /*Cert page query*/
-    .col-md-6 > .rzow { 
-     margin-left: 19rem;
-     width: 100%;
 
-    } 
-}
  .rzow > h1 {
      font-size: 42px;
      font-weight: bold;
  }
 
- @media screen and (max-width:700px){
-    .rzow {
-        padding: 20px;
-    }
-    .rzow > h1 {
-        text-align: center;
-    }
- }
 
 .rzow  > .fd-h {
     font-size: 42px;
