@@ -55,7 +55,14 @@ body {
     } 
 }
 
-
+@media screen and (max-width:700px){
+    .rzow {
+        padding: 20px;
+    }
+    .rzow > h1 {
+        text-align: center;
+    }
+ }
 
  
 .cert-w > p {
