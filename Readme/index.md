@@ -5,7 +5,7 @@
 /*  
 *   Akrom Abdulvohidov 
 *   07.01.2021
-*   This page make with
+*   This page make with technologies: 
 *   HTML
 *   CSS
 *   Little Bootstrap 
