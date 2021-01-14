@@ -2,8 +2,9 @@
 
 ## Assalomualeykum Bu mening portfolio veb saytimning 2.0 versiyasi
 
-/*Akrom Abdulvokhidov 2021*/
-*07.01.2021
+/*  Akrom Abdulvokhidov 2021 
+*   07.01.2021
+*   
 *
 *
 *
@@ -15,5 +16,4 @@
 *
 *
 *
-*
-*
+*/
