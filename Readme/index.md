@@ -8,7 +8,7 @@
 *   HTML
 *   CSS
 *   Little Bootstrap 
-* 
+*   Little jQuery
 *
 *
 *
