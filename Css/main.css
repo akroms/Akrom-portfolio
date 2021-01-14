@@ -49,10 +49,7 @@ body {
     font-size: 20px;
     margin-bottom: -2rem;
 }
-.certificate:hover {
-    box-shadow: 0 10px 10px 10px gray;
-    padding-bottom: 0;
-}
+
 .certs {
     background-color:#F7F8FC;
 }
@@ -177,6 +174,10 @@ input[type=submit]:hover {
         cursor: pointer;
         box-shadow: 0 10px 10px gray;
     } 
+    .certificate:hover {
+        box-shadow: 0 10px 10px 10px gray;
+        padding-bottom: 0;
+    }
 }
 
 @media screen and (max-width:700px){  /*This query applies when  < 700px*/
