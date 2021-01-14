@@ -11,5 +11,4 @@
 *   Little jQuery
 *   
 *
-*
 */
