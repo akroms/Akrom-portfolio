@@ -156,7 +156,7 @@ input[type=submit]:hover {
 
 /*Media queries for responsive web design*/
 
-@media screen and (min-width:700px) {  /*Cert page query*/
+@media screen and (min-width:700px) {  /*This query applies when  > 700px*/
     .col-md-8 > p { 
      margin-left: 9rem;
      width: 100%;
@@ -173,7 +173,7 @@ input[type=submit]:hover {
         text-align: center;
         margin-left: 14rem;
     }
-    .profile-image:hover {   
+    .profile-image:hover {  
         cursor: pointer;
         box-shadow: 0 10px 10px gray;
     } 
