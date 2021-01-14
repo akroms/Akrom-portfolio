@@ -6,7 +6,7 @@
 *   07.01.2021
 *   This page make with
 *   HTML
-*
+*   CSS
 *
 *
 *
