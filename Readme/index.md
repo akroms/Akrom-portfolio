@@ -3,7 +3,7 @@
 ## Assalomualeykum Bu mening portfolio veb saytimning 2.0 versiyasi
 
 /*  
-*   Akrom Abdulvokhidov 2021 
+*   Akrom Abdulvohidov 
 *   07.01.2021
 *   This page make with
 *   HTML
