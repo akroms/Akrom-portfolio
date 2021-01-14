@@ -5,7 +5,7 @@
 /*  Akrom Abdulvokhidov 2021 
 *   07.01.2021
 *   This page make with
-*
+*   
 *
 *
 *
